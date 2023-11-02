@@ -12,8 +12,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/jsdjfbeiuw/openwrt
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/Carolyn-Sloan/openwrt-23.05
+  REPO_BRANCH: main
 
 on:
   workflow_dispatch:
